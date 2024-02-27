@@ -19,5 +19,19 @@ function PIGLATIN($sentence) {
 		return implode(" ", $result);
 	}
 $sentence = "what a beautiful day";
+echo PIGLATIN($sentence);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ?>
