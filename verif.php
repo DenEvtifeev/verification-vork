@@ -20,18 +20,4 @@ function PIGLATIN($sentence) {
 	}
 $sentence = "what a beautiful day";
 echo PIGLATIN($sentence);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
